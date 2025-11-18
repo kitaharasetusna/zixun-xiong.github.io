@@ -13,26 +13,17 @@ My research focuses on the **security and reliability of AI systems**, especiall
 
 ---
 
-## Research Interests
-
-- LLM fingerprinting and intellectual property (IP) protection  
-- Backdoor and adversarial defenses for deep learning models  
-- Security of multi-agent LLM systems (LLM-MAS)  
-- Side-channel and covert-channel attacks on systems and hardware  
-- Federated learning and wireless / edge AI security  
-
-More details can be found on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/) pages.
-
----
-
 ## Selected Publications
 
 - **iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification**  
+  **Zixun Xiong**, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, and Hao Wang  
   *AAAI Conference on Artificial Intelligence (AAAI’26)*  
   [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf)
 
 - **CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots**  
-  *IEEE Robotics and Automation Letters (RAL' 24)*  
+  
+  *IEEE Robotics and Automation Letters (RAL' 24)*
+  Shifan Zhu, Zixun. Xiong, and Donghyun Kim
   [Project / Dataset](https://daroslab.github.io/cear/)
 
 A full list is available on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/publications/) page.
