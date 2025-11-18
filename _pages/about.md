@@ -21,7 +21,7 @@ My research focuses on the **security and reliability of AI systems**, especiall
 - Side-channel and covert-channel attacks on systems and hardware  
 - Federated learning and wireless / edge AI security  
 
-More details can be found on the [Publications](/publications/) and [Talks](/talks/) pages.
+More details can be found on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/) pages.
 
 ---
 
@@ -32,10 +32,10 @@ More details can be found on the [Publications](/publications/) and [Talks](/tal
   [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf)
 
 - **CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots**  
-  *IEEE Robotics and Automation Letters (RAL), 2024*  
-  [Project / Dataset](#)
+  *IEEE Robotics and Automation Letters (RAL' 24)*  
+  [Project / Dataset](https://daroslab.github.io/cear/)
 
-A full list is available on the [Publications](/publications/) page.
+A full list is available on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/publications/) page.
 
 ---
 
