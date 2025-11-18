@@ -23,7 +23,7 @@ repository               : "kitaharasetusna/zixun-xiong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mambo.jpg"
   name             : "Zixun Xiong"
   pronouns         : he/him # example: "she/her"  
   bio              : "PhD student of ECE"
