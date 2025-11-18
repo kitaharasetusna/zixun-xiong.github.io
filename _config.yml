@@ -24,10 +24,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Zixun Xiong"
+  pronouns         : he/him # example: "she/her"  
+  bio              : "PhD student of ECE"
+  location         : "FairFax, VA"
   employer         : "Georgy Mason University"
   uri              : # URL
   email            : "zxiong@gmu.edu" 
