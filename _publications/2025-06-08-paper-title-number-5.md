@@ -3,9 +3,12 @@ title: "iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification"
 collection: publications
 category: conferences
 permalink: /publication/iseal-aaai26
-excerpt: "This paper proposes iSeal, an encrypted fingerprinting method for reliable LLM ownership verification."
+excerpt: "iSeal is the first encrypted fingerprinting method designed for reliable LLM ownership verification against end-to-end model thief control."
 date: 2025-02-17
 venue: "AAAI Conference on Artificial Intelligence (AAAI '26)"
 paperurl: "https://arxiv.org/pdf/2511.08905.pdf"
-citation: "Zixun Xiong. 2025. \"iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification.\" In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI '26)."
+citation: "Zixun Xiong, Hao Wang, Qingyang Yu, Gaoyi Wu, et al. 2025. \"iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification.\" In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI '26)."
 ---
+
+iSeal is the first encrypted fingerprinting method designed for reliable LLM ownership verification when the model thief fully controls the LLM inference pipeline. The full-length version is available on arXiv.
+
