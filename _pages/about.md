@@ -21,7 +21,7 @@ My research focuses on the **security and reliability of AI systems**, especiall
   [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf)
 
 - **CEAR: Comprehensive Event Camera Dataset for Rapid Perception of Agile Quadruped Robots**  
-  Shifan Zhu, *Zixun Xiong*, and Donghyun Kim
+  Shifan Zhu, Zixun Xiong, and Donghyun Kim
   *IEEE Robotics and Automation Letters (RAL' 24)*
   [Project / Dataset](https://daroslab.github.io/cear/)
 
