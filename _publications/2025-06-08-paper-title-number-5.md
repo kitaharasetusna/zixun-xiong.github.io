@@ -10,4 +10,3 @@ paperurl: 'https://arxiv.org/pdf/2511.08905'
 citation: 'Zixun Xiong. (2025). &quot; AAAI Conference on Artificial Intelligence 3.&quot; <i>AAAI</i>. 1(3).'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
