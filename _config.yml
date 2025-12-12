@@ -27,7 +27,7 @@ author:
   name             : "Zixun Xiong"
   pronouns         : he/him # example: "she/her"  
   bio              : "PhD student of ECE"
-  location         : "FairFax, VA"
+  location         : "Fairfax, VA"
   employer         : "Georgy Mason University"
   uri              : # URL
   email            : "zxiong@gmu.edu" 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-7318-2084"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -148,6 +148,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://github.com/kitaharasetusna"
+    - "https://orcid.org/0009-0004-7318-2084"
 
 
 # Analytics
