@@ -17,7 +17,7 @@ My research focuses on the **security and reliability of AI systems**, especiall
 
 - **iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification**  
   **Zixun Xiong**, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, and Hao Wang  
-  *AAAI Conference on Artificial Intelligence (AAAI’26) (Acceptance Rate 17.6\%)*  
+  *AAAI Conference on Artificial Intelligence (AAAI’26) (Acceptance Rate 17.6 %)*  
   [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf);
   [Slide](/zixun-xiong.github.io/files/Protecting_LLMs_from_Advanced_Thieves.pdf);
   [Code](https://github.com/kitaharasetusna/iSeal)
