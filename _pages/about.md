@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Zixun Xiong**, a Ph.D. student in **Electrical and Computer Engineering (ECE)**.  
-I am currently at **Stevens Institute of Technology**, and will join **George Mason University (GMU) ECE** as a Ph.D. student (RA) in Spring 2026.  
-My research focuses on the **security and reliability of AI systems**, especially large language models (LLMs).
+Hi! I am **Zixun Xiong**, a Ph.D. student in **Electrical and Computer Engineering (ECE)**. of **George Mason University (GMU) ECE**.  
+My research focuses on the **Trustworthy AI and XR Seucurity**.
 
 ---
 
