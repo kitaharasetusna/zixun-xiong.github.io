@@ -28,4 +28,5 @@ A full list is available on the [Publications](https://kitaharasetusna.github.io
 
 ## News
 
-- **2025.11** – *iSeal* accepted to **AAAI 2026** 🎉 
+- **2025.11** – *iSeal* accepted to **AAAI 2026** 🎉
+- **2026.03** – *ATClean* accepted to **AsiaCCS 2026** 🎉 
