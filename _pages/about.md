@@ -21,6 +21,13 @@ My research focuses on the **Trustworthy AI and XR Seucurity**.
   [Slide](/zixun-xiong.github.io/files/Protecting_LLMs_from_Advanced_Thieves.pdf);
   [Code](https://github.com/kitaharasetusna/iSeal)
 
+- **Deep Learning Backdoor Defense via Adaptive Trigger Collisions in Latent Space**  
+  **Zixun Xiong**, Hao Wang, Jian Li, Hua Yuan, Miao Pan, Xiaojiang Du (AsiaCCS’26) (Acceptance Rate 17.6 %)*  
+  [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf);
+  [Slide](/zixun-xiong.github.io/files/Protecting_LLMs_from_Advanced_Thieves.pdf);
+  [Code](https://github.com/kitaharasetusna/iSeal)
+
+
 
 A full list is available on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/publications/) page.
 
@@ -28,5 +35,6 @@ A full list is available on the [Publications](https://kitaharasetusna.github.io
 
 ## News
 
-- **2025.11** – *iSeal* accepted to **AAAI 2026** 🎉
 - **2026.03** – *ATClean* accepted to **AsiaCCS 2026** 🎉 
+- **2025.11** – *iSeal* accepted to **AAAI 2026** 🎉
+
