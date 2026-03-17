@@ -23,6 +23,7 @@ My research focuses on the **Trustworthy AI and XR Seucurity**.
 
 - **Deep Learning Backdoor Defense via Adaptive Trigger Collisions in Latent Space**  
   **Zixun Xiong**, Hao Wang, Jian Li, Hua Yuan, Miao Pan, and Xiaojiang Du
+  
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS’26) (Acceptance Rate 22.3 %)*   
   [PDF / arXiv]();
   [Slide]();
