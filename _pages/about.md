@@ -22,7 +22,7 @@ My research focuses on the **Trustworthy AI and XR Seucurity**.
   [Code](https://github.com/kitaharasetusna/iSeal)
 
 - **Deep Learning Backdoor Defense via Adaptive Trigger Collisions in Latent Space**  
-  **Zixun Xiong**, Hao Wang, Jian Li, Yang Yang, Miao Pan, and Xiaojiang Du
+  **Zixun Xiong**, Hao Wang, Jian Li, Yang Hua, Miao Pan, and Xiaojiang Du
   
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS’26) (Acceptance Rate 22.3 %)*   
   [PDF / arXiv]();
