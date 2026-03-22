@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hi! I am **Zixun Xiong**, a Ph.D. student in **Electrical and Computer Engineering (ECE)** department of **George Mason University (GMU)** under the advise of Dr. Yicheng Zhang.  
+Previously, I was an research assistant under the advise of Dr. Hao Wang in the IntelliSys lab.
 My research focuses on the **Trustworthy AI and XR Seucurity**.
 
 ---
