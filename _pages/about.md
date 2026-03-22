@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am **Zixun Xiong**, a Ph.D. student in **Electrical and Computer Engineering (ECE)**. of **George Mason University (GMU)**.  
+Hi! I am **Zixun Xiong**, a Ph.D. student in **Electrical and Computer Engineering (ECE)**. of **George Mason University (GMU)** under the advise of Dr. Yicheng Zhang.  
 My research focuses on the **Trustworthy AI and XR Seucurity**.
 
 ---
