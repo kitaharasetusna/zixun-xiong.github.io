@@ -30,6 +30,14 @@ My research focuses on the **Trustworthy AI and XR System Security**.
   [Slide]();
   [Code]()
 
+- **OverSync: Covert and Side-Channel Attacks on Linux Synchronization System via membarrier**  
+  Ziyi Guo, **Zixun Xiong**, Yan Chen, and **Yicheng Zhang**
+  
+  *The Network and Distributed System Security Symposium (NDSS’27), Seoul, Republic of Korea, March 2027*  
+  *Security Bounty: $7,000 from the Google/Android Security Team*  
+  [PDF]();
+  
+
 
 
 A full list is available on the [Publications](https://kitaharasetusna.github.io/zixun-xiong.github.io/publications/) page.
