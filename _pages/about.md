@@ -30,7 +30,7 @@ My research focuses on the **Trustworthy AI and XR System Security**.
   [Slide]();
   [Code]()
 
-- **OverSync: Covert and Side-Channel Attacks on Linux Synchronization System via membarrier**  
+- **OverSync: Covert and Side-Channel Attacks on Linux XXXXXX **  
   Ziyi Guo, **Zixun Xiong**, Yan Chen, and **Yicheng Zhang**
   
   *The Network and Distributed System Security Symposium (NDSS’27), Seoul, Republic of Korea, March 2027*  
