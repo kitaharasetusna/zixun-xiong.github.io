@@ -16,21 +16,21 @@ My research focuses on the **Trustworthy AI and XR System Security**.
 ## Selected Publications
 
 - **iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification**  
-  **Zixun Xiong**, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, and Hao Wang  
+  **Zixun Xiong**, Gaoyi Wu, Qingyang Yu, Mingyu Derek Ma, Lingfeng Yao, Miao Pan, Xiaojiang Du, and **Hao Wang**  
   *AAAI Conference on Artificial Intelligence (AAAI’26) (Acceptance Rate 17.6 %)*  
   [PDF / arXiv](https://arxiv.org/pdf/2511.08905.pdf);
   [Slide](/zixun-xiong.github.io/files/Protecting_LLMs_from_Advanced_Thieves.pdf);
   [Code](https://github.com/kitaharasetusna/iSeal)
 
 - **Deep Learning Backdoor Defense via Adaptive Trigger Collisions in Latent Space**  
-  **Zixun Xiong**, Hao Wang, Jian Li, Yang Hua, Miao Pan, and Xiaojiang Du
+  **Zixun Xiong**, **Hao Wang**, Jian Li, Yang Hua, Miao Pan, and Xiaojiang Du
   
   *ACM ASIA Conference on Computer and Communications Security (AsiaCCS’26) (Acceptance Rate 22.3 %)*   
   [PDF / arXiv]();
   [Slide]();
   [Code]()
 
-- **OverSync: Covert and Side-Channel Attacks on Linux XXX **  
+- **OverSync: Covert and Side-Channel Attacks on Linux XXX**  
   Ziyi Guo, **Zixun Xiong**, Yan Chen, and **Yicheng Zhang**
   
   *The Network and Distributed System Security Symposium (NDSS’27), Seoul, Republic of Korea, March 2027*  
